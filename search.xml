@@ -140,78 +140,6 @@
       </tags>
   </entry>
   <entry>
-    <title>常见古英语单词对照</title>
-    <url>/archives/db3cdaed.html</url>
-    <content><![CDATA[<p>读十四行诗必备~</p>
-<span id="more"></span>
-
-<table>
-<thead>
-<tr>
-<th align="center">古英语</th>
-<th align="center">现代英语</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">thou</td>
-<td align="center">主格you</td>
-</tr>
-<tr>
-<td align="center">thy</td>
-<td align="center">your</td>
-</tr>
-<tr>
-<td align="center">oft</td>
-<td align="center">often</td>
-</tr>
-<tr>
-<td align="center">tho’</td>
-<td align="center">though</td>
-</tr>
-<tr>
-<td align="center">thine</td>
-<td align="center">yours</td>
-</tr>
-<tr>
-<td align="center">hither</td>
-<td align="center">here</td>
-</tr>
-<tr>
-<td align="center">wi’</td>
-<td align="center">with</td>
-</tr>
-<tr>
-<td align="center">hath</td>
-<td align="center">has</td>
-</tr>
-<tr>
-<td align="center">o’</td>
-<td align="center">of</td>
-</tr>
-<tr>
-<td align="center">doth</td>
-<td align="center">does</td>
-</tr>
-<tr>
-<td align="center">e’en</td>
-<td align="center">even</td>
-</tr>
-<tr>
-<td align="center">o’er</td>
-<td align="center">over</td>
-</tr>
-<tr>
-<td align="center">art</td>
-<td align="center">are</td>
-</tr>
-<tr>
-<td align="center">thee</td>
-<td align="center">宾格you</td>
-</tr>
-</tbody></table>
-]]></content>
-  </entry>
-  <entry>
     <title>Java &amp; Android代码规范指南</title>
     <url>/archives/abf51d21.html</url>
     <content><![CDATA[<p>本文为<a href="https://google.github.io/styleguide/javaguide.html">Google Java 风格指南</a>的汉语翻译。无论你是个人开发还是团队协同开发，一个良好的代码规范，能够在项目当中发挥举足轻重的作用；它不仅能使你们的开发更加高效，而且还会减少BUG产生的几率，增强代码可维护性及稳定性。</p>
@@ -642,5 +570,77 @@
       <tags>
         <tag>Code Style</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>常见古英语单词对照</title>
+    <url>/archives/db3cdaed.html</url>
+    <content><![CDATA[<p>读十四行诗必备~</p>
+<span id="more"></span>
+
+<table>
+<thead>
+<tr>
+<th align="center">古英语</th>
+<th align="center">现代英语</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">thou</td>
+<td align="center">主格you</td>
+</tr>
+<tr>
+<td align="center">thy</td>
+<td align="center">your</td>
+</tr>
+<tr>
+<td align="center">oft</td>
+<td align="center">often</td>
+</tr>
+<tr>
+<td align="center">tho’</td>
+<td align="center">though</td>
+</tr>
+<tr>
+<td align="center">thine</td>
+<td align="center">yours</td>
+</tr>
+<tr>
+<td align="center">hither</td>
+<td align="center">here</td>
+</tr>
+<tr>
+<td align="center">wi’</td>
+<td align="center">with</td>
+</tr>
+<tr>
+<td align="center">hath</td>
+<td align="center">has</td>
+</tr>
+<tr>
+<td align="center">o’</td>
+<td align="center">of</td>
+</tr>
+<tr>
+<td align="center">doth</td>
+<td align="center">does</td>
+</tr>
+<tr>
+<td align="center">e’en</td>
+<td align="center">even</td>
+</tr>
+<tr>
+<td align="center">o’er</td>
+<td align="center">over</td>
+</tr>
+<tr>
+<td align="center">art</td>
+<td align="center">are</td>
+</tr>
+<tr>
+<td align="center">thee</td>
+<td align="center">宾格you</td>
+</tr>
+</tbody></table>
+]]></content>
   </entry>
 </search>
